@@ -2,7 +2,7 @@
 
 使用：   
 
-1. 克隆本项目到本地：`git clone git@github.com:xiaogliu/postcss_flex_layout.git`
+1. 克隆本项目到本地：`git clone git@github.com:xiaogliu/postcss_example.git`
 2. 进入相应目录：`only_postcss`或者`combine_sass`
 3. 安装插件：`npm install`   
 4. 生成经postcss处理后的css：`npm run postcss`
