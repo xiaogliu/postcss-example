@@ -2,6 +2,6 @@
 
 使用：   
 
-1，下载本仓库   
-2，安装插件：`npm install`   
-3，生成经postcss处理后的css：`npm run css`
+1. 克隆本项目到本地：`git clone git@github.com:xiaogliu/postcss_flex_layout.git`   
+2. 安装插件：`npm install`   
+3. 生成经postcss处理后的css：`npm run css`
