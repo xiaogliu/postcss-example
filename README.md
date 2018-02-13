@@ -1,4 +1,4 @@
-[postcss](https://github.com/postcss/postcss)使用示例，详情可参考这篇博客[通过PostCSS自动添加CSS3属性前缀](http://xiaogliu.github.io/2017/07/19/%E9%80%9A%E8%BF%87PostCSS%E8%87%AA%E5%8A%A8%E6%B7%BB%E5%8A%A0CSS3%E5%B1%9E%E6%80%A7%E5%89%8D%E7%BC%80/)
+[postcss](https://github.com/postcss/postcss)使用示例，详情可参考这篇博客[通过PostCSS自动添加CSS3属性前缀](https://xiaogliu.github.io/2017/07/19/using-postcss-add-css-prefix/)
 
 使用：   
 
